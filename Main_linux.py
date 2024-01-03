@@ -25,7 +25,7 @@ def main():
 
     while True:
         # Solicitar la ruta del archivo PDF desde el usuario
-        pdf_path = input("> Ingrese la ruta del archivo PDF ('exit' para salir): ").strip('"')
+        pdf_path = input("> Ingrese la ruta del archivo PDF ('exit' para salir):").strip('"')
 
         if pdf_path.lower() == 'exit':
             print("Saliendo de la aplicación. ¡Hasta luego!")
