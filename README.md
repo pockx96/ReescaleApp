@@ -10,10 +10,13 @@ To use this tool, follow these installation steps:
    ```bash
    git clone https://github.com/your_username/your_project.git
    cd your_project
-   
 2. **Install Python:**
-If you don't already have python to install Python on Debian-based systems (such as Ubuntu or Debian), you can use the following command:
-```bash
+   If you don't already have python to install Python on Debian-based systems (such as Ubuntu or Debian), you can use the following command:
+   ```bash
    sudo apt update
    sudo apt upgrade
-   sudo apt install python3
+   sudo apt install python3 
+3. **pip install PyMuPDF Pillow**
+   ´´´bash
+   pip install PyMuPDF Pillow
+
