@@ -21,5 +21,5 @@ To use this tool, follow these installation steps:
    pip install PyMuPDF Pillow
 
 4.**Run the script**
-   ´´´bash
+   ```bash
    ./ReescaleApp.sh
