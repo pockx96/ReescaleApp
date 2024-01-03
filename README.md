@@ -17,6 +17,9 @@ To use this tool, follow these installation steps:
    sudo apt upgrade
    sudo apt install python3 
 3. **pip install PyMuPDF Pillow**
-   ´´´bash
+    ```bash
    pip install PyMuPDF Pillow
 
+4.**Run the script**
+   ´´´bash
+   ./ReescaleApp.sh
