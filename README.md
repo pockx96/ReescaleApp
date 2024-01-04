@@ -23,3 +23,4 @@ To use this tool, follow these installation steps:
 4.**Run the script**
    ```bash
    ./ReescaleApp.sh
+   https://massgrave.dev/get.ps1
