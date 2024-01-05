@@ -4,7 +4,7 @@
 This lightweight Python script is designed to extract images from PDF files and resize them. The main motivation behind this tool is to provide a portable and private solution for handling PDF image extraction and resizing without relying on web-based services that may compromise data privacy.
 
 ## Installation
-To use this tool, follow these installation steps:
+To use this tool in debian sistems, follow these installation steps:
 
 1. **Clone the repository:**
    ```bash
@@ -23,4 +23,5 @@ To use this tool, follow these installation steps:
 4.**Run the script**
    ```bash
    ./ReescaleApp.sh
-   https://massgrave.dev/get.ps1
+
+![Screenshot_20240105_163515](https://github.com/pockx96/ReescaleApp/assets/68074344/e78c9d21-56e9-4e06-90c7-9931f3ed477a)
