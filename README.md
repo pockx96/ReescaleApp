@@ -20,7 +20,7 @@ To use this tool in debian sistems, follow these installation steps:
     ```bash
    pip install PyMuPDF Pillow
 
-4.**Run the script**
+4. **Run the script**
     ```bash
    ./ReescaleApp.sh
 
